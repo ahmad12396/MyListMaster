@@ -1,6 +1,8 @@
 🚀 MY List Master | Pro Dashboard
 MY List Master is a sleek, modern task management web application built with Django and Bootstrap 5. It provides a high-performance user interface with real-time frontend validation, persistent task tracking, and a beautiful responsive design.
 
+<img width="1920" height="1357" alt="screencapture-127-0-0-1-8000-2026-02-12-13_12_07" src="https://github.com/user-attachments/assets/2fed0e85-dc04-40f4-bba8-9db5ae5185fc" />
+
 ✨ Key Features
 Dual-Column Management: Separate sections for "Pending" and "Completed" tasks for better organization.
 
